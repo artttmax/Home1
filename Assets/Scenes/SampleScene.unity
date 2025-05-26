@@ -500,7 +500,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0e1e10502a6bac646923e3e41490c10e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _yRotationSpeed: 1
+  _yRotationSpeed: 45
 --- !u!114 &678287935
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -513,7 +513,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 10471ee424ceb294faf669bb8cc6a377, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _moovingSpeed: 0.5
+  _moovingSpeed: 5
 --- !u!114 &678287936
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -526,7 +526,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d7a87ac8f5907464e97e1f63afef392c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _growingSpeed: 0.005
+  _growingSpeed: 1
 --- !u!1 &832575517
 GameObject:
   m_ObjectHideFlags: 0
@@ -717,7 +717,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d7a87ac8f5907464e97e1f63afef392c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _growingSpeed: 0.005
+  _growingSpeed: 1
 --- !u!136 &1027580522
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -930,7 +930,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 10471ee424ceb294faf669bb8cc6a377, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _moovingSpeed: 0.5
+  _moovingSpeed: 2
 --- !u!1 &1978314002
 GameObject:
   m_ObjectHideFlags: 0
@@ -963,7 +963,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0e1e10502a6bac646923e3e41490c10e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _yRotationSpeed: 1
+  _yRotationSpeed: 90
 --- !u!65 &1978314004
 BoxCollider:
   m_ObjectHideFlags: 0
